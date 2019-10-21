@@ -1,0 +1,2 @@
+swagger/index.html?url=/api-docs/openapi.yaml to bypass spring boot admin
+
